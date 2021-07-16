@@ -15,7 +15,7 @@ function App() {
 	};
 
 	return (
-		<div className="App container mx-auto">
+		<div className="App container mx-auto p-5">
 			<h1 className="text-5xl">Spider</h1>
 			<div className="my-8">
 				<Switch>
